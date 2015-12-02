@@ -13,3 +13,5 @@ The rest of the day is yours to import all of your old static files into your pr
 
 
 
+
+<a href='https://learn.co/lessons/cssi-7-profile-page-templates-lab' data-visibility='hidden'>View this lesson on Learn.co</a>

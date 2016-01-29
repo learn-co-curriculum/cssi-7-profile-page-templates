@@ -14,4 +14,4 @@ The rest of the day is yours to import all of your old static files into your pr
 
 
 
-<a href='https://learn.co/lessons/cssi-7-profile-page-templates-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-7-profile-page-templates-lab' title='Profile Page Templating & Work Time'>Profile Page Templating & Work Time</a> on Learn.co and start learning to code for free.</p>
